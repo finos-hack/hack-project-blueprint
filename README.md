@@ -1,11 +1,6 @@
-[![badge-labs](https://user-images.githubusercontent.com/327285/230928932-7c75f8ed-e57b-41db-9fb7-a292a13a1e58.svg)](https://community.finos.org/docs/governance/lifecycle-stages/labs)
-
 <img align="right" width="40%" src="https://www.finos.org/hubfs/FINOS/finos-logo/FINOS_Icon_Wordmark_Name_RGB_horizontal.png">
 
-# FINOS Software Project Blueprint
-
-Project blueprint is a GitHub repository template for all [Fintech Open Source Foundation (FINOS)](https://www.finos.org/) hosted GitHub repositories, contributed and maintained by FINOS as part of the [Open Developer Platform (ODP)](https://odp.finos.org) initiative.
-
+# FINOS Hack Project Blueprint
 
 ## Using DCO to sign your commits
 
@@ -28,6 +23,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information.
   | Token                        | Replace with                                                      |
   | ---------------------------- | ----------------------------------------------------------------- |
   | `{project name}`             | The name of the GitHub repository the project resides in.         |
+  | `{project-slug}`             | The name the GitHub repository slug                               |
   | `{yyyy}`                     | The year you started working on the code.                         |
   | `{current_year}`             | The current year.                                                 |
   | `{name of copyright owner}`  | The copyright owner of the code (typically you or your employer). |
