@@ -63,7 +63,7 @@ If the DCO bot flags your PR, you don't need to start over or re-open the PR. It
 
 ### Prerequisites
 
-* [ ] Have you [searched for duplicates](https://github.com/finos-labs/{project-slug}/issues?utf8=%E2%9C%93&q=)?  A simple search for exception error messages or a summary of the unexpected behaviour should suffice.
+* [ ] Have you [searched for duplicates](https://github.com/finos-hack/{project-slug}/issues?utf8=%E2%9C%93&q=)?  A simple search for exception error messages or a summary of the unexpected behaviour should suffice.
 * [ ] Are you running the latest version?
 * [ ] Are you sure this is a bug or missing capability?
 
@@ -85,7 +85,7 @@ To make review of PRs easier, please:
  * Reference issues if your PR has anything to do with an issue (even if it doesn't address it).
  * Minimise non-functional changes (e.g. whitespace).
  * Ensure all new files include a header comment block containing the [Apache License v2.0 and your copyright information](http://www.apache.org/licenses/LICENSE-2.0#apply).
- * If necessary (e.g. due to 3rd party dependency licensing requirements), update the [NOTICE file](https://github.com/finos-labs/{project-slug}/blob/master/NOTICE) with any new attribution or other notices
+ * If necessary (e.g. due to 3rd party dependency licensing requirements), update the [NOTICE file](https://github.com/finos-hack/{project-slug}/blob/main/NOTICE) with any new attribution or other notices
 
 
 ### Commit and PR Messages
