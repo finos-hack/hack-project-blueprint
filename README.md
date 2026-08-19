@@ -51,7 +51,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information
 
 ## License
 
-Copyright {yyyy} {name of copyright owner}
+Copyright 2026 FINOS
 
 Distributed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
