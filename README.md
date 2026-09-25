@@ -41,6 +41,8 @@ List the roadmap steps; alternatively link the Confluence Wiki page where the pr
 
 ## Contributing
 
+Coding agents should follow [AGENTS.md](./AGENTS.md), which requires a Developer Certificate of Origin sign-off on every commit.
+
 **All commits** must be signed with a DCO signature to avoid being flagged by the DCO Bot. This means that your commit log message must contain a line that looks like the following one, with your actual name and email address:
 
 ```
