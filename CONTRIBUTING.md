@@ -1,6 +1,6 @@
-# Contributing to {project name}
+# Contributing to FINOS projects
 
-{project name} is [Apache 2.0 licensed](LICENSE) and accepts contributions via git pull requests. 
+FINOS projects are [Apache 2.0 licensed](LICENSE) and accepts contributions via git pull requests. 
 
 ## Developer Certificate of Origin (DCO)
 
